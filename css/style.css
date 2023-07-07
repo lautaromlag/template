@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #444;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Encode Sans", "Open Sans", sans-serif;
 }
 
 a {
@@ -71,8 +71,7 @@ h6 {
 
 #institucional {
   color: #444;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New
-  Roman', serif;
+  font-family: "Encode Sans", Arial, 'Times New Roman', serif;
   }
 
 /* Prelaoder */
